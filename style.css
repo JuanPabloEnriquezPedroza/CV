@@ -1,0 +1,81 @@
+body
+{
+  background-color: #f7f7f7;
+  font-family: 'Blinker', sans-serif;
+}
+
+a
+{
+  color: white;
+  text-decoration: none;
+}
+
+section
+{
+  background-color: white;
+  border-radius: 10px;
+  padding-left: 20px;
+  padding-right: 19px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin-bottom: 20px;
+}
+
+h2
+{
+  background-color: grey;
+	color: white;
+  border-radius: 10px;
+  text-align: center;
+}
+
+hr
+{
+  background-color: black;
+  height: 10px;
+  width: 101%;
+  margin-left: -8px;
+  border-color: black;
+}
+
+table
+{
+  width: 100%;
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+th, td 
+{
+  border: 2px solid black;
+  border-collapse: collapse;
+  padding-left: 10px;
+  text-align: left;    
+}
+
+#profile
+{
+  margin-bottom: -4px;
+  padding: 0px;
+  width: 200px;
+  height: 200px;
+}
+
+#proyect
+{
+  width: 384px;
+  height: 216px;
+}
+
+#contact
+{
+  text-align: left; 
+  padding: 10px;
+}
+
+#star
+{
+  padding: 0px;
+  width: 16px;
+  height: 16px;
+}
